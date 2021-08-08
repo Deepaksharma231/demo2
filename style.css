@@ -1,0 +1,517 @@
+.box1{
+        /* border: 2px solid red; */
+        display: flex;
+        position: absolute;
+        width: 100px;
+        height: 100px;
+    }
+.logo{
+    width: 100px;
+    height: 100px;
+
+}
+.box2{
+    /* border: 2px solid red; */
+    display: flex;
+    position: absolute;
+    left: 400px;
+    width: 1100px;
+    height: 70px;
+    background-color: #e6ebb4;
+    border-radius: 50px;
+}
+.navbar li{
+    display: inline-block;
+    
+
+}
+.navbar a:hover{
+    background-color: aqua;
+    border-radius: 50px;
+    transition: 1s;
+}
+.navbar li a{
+    padding: 0px 40px;
+    color: slateblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar .sign{
+    /* border: 1px solid red; */
+    background-color: rgb(139, 238, 115);
+    border-radius: 50%;
+    color: rgb(248, 245, 239);
+}
+.navbar .sign:hover{
+    background-color: rgb(42, 79, 240);
+    transition: 1s;
+
+}
+.box3{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 130px;
+    width: 1500px;
+    height: 370px;
+    /* background-color: #e6ebb4; */
+    /* border-radius: 12%; */
+}
+.box3 span{
+    font-size: 50px;
+    padding-left: 50px;
+}
+.box3 p{
+    font-size: 30px;
+    padding-left: 30px;
+}
+.box3 a{
+    text-decoration: none;
+    font-size: 50px;
+    left: 20px;
+    padding: 0px 60px;
+    border: 1px solid red;
+    border-radius: 35px;
+    background-color: #6db5ed;
+    
+}
+.box3 img{
+    margin-top: -267px;
+}
+.box3 a:hover{
+    background-color: aqua;
+    transition: 1s;
+}
+.box4{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 530px;
+    width: 1500px;
+    height: 370px;
+    background-color: #e5f5f4;
+}
+.head{
+    font-size: 40px;
+}
+.head_para{
+    font-size: 25px;
+}
+.box4 a{
+    font-size: 30px;
+    /* padding-left: 20px; */
+    border: 1px solid red;
+    background-color: #899ae1;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.box4 a:hover{
+    background-color: aqua;
+    transition: 1s;   
+}
+.box4 img{
+    margin-top: -165px;
+    padding-left: 807px;
+}
+.box5{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 900px;
+    width: 1500px;
+    height: 85px;
+    background-color: #f4fafa;;
+}
+.box5 .fa{
+    padding-left: 135px;
+    margin-top: 30px;
+}
+.no{
+    padding-left: 150px;
+}
+.no1{
+    padding-left: 365px;
+}
+.no2{
+    padding-left: 200px;
+}
+.no3{
+    padding-left: 200px;
+}
+.no4{
+    padding-left: 180px;
+}
+.no5{
+    padding-left: 200px;
+}
+.no6{
+    padding-left: 180px;
+}
+.no7{
+    padding-left: 130px;
+}
+.no8{
+    padding-left: 150px;
+}
+.no9{
+    padding-left: 180px;
+}
+
+.box6{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 1050px;
+    width: 1500px;
+    height: 65px;
+}
+.box6 h1{
+    text-align: center;
+}
+.box7{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 1100px;
+    width: 1500px;
+    height: 65px;
+}
+.box7 p{
+    text-align: center;
+}
+.box8{
+    text-align: center;
+}
+.box8 input{
+    padding: 10px 70px;
+    border-radius: 50px;
+}
+.no10{
+    text-decoration: none;
+    border: 1px solid red;
+    background-color: rgb(36, 14, 233);
+    color: white;
+    padding: 2px 10px;
+    border-radius: 50px;
+}
+
+.box9{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 1300px;
+    width: 1500px;
+    height: 65px;
+}
+.box9 h2{
+    text-align: center;
+}
+
+.box9_5{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 1400px;
+    width: 1500px;
+    height: 400px;
+    display: flex; 
+}
+.box10{
+    /* border: 2px solid red; */
+    position: absolute;
+    /* margin-top: 100px; */
+    width: 400px;
+    height: 400px; 
+    background-color: #e0f0f1;
+}
+.box10 img{
+    padding-left: 98px;
+    border-radius: 115px;
+}
+.box10 h2{
+    text-align: center;
+}
+.no11{
+    padding-left: 10px;
+} 
+
+.box11{
+    /* border: 2px solid red; */
+    position: absolute;
+    /* margin-top: 1400px; */
+    /* padding-left: 1000px; */
+    margin-left: 500px;
+    width: 400px;
+    height: 400px; 
+    background-color: #e0f0f1;
+}
+.box11 img{
+    padding-left: 98px;
+    border-radius: 115px;
+}
+.box11 h2{
+    text-align: center;
+}
+.no11{
+    padding-left: 10px;
+}
+
+.box12{
+    /* border: 2px solid red; */
+    position: absolute;
+    /* margin-top: 1400px; */
+    /* padding-left: 1000px; */
+    margin-left: 1000px;
+    width: 400px;
+    height: 400px; 
+    background-color: #e0f0f1;
+}
+.box12 img{
+    padding-left: 98px;
+    border-radius: 115px;
+}
+.box12 h2{
+    text-align: center;
+}
+.no11{
+    padding-left: 10px;
+}
+
+.box13{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 1855px;
+    width: 1500px;
+    height: 70px;
+    /* display: flex;  */
+}
+.box13 h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.box14{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 1930px;
+    width: 1500px;
+    height: 70px;
+    /* display: flex;  */
+}
+
+.box15{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 2000px;
+    width: 1500px;
+    height: 180px;
+    /* display: flex;  */
+}
+.box15 a{
+    font-size: 30px;
+}
+
+.box16{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 2300px;
+    width: 1500px;
+    height: 70px;
+    /* display: flex;  */
+}
+.box16 h1{
+    text-align: center;
+}
+
+.box17{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 2500px;
+    width: 1500px;
+    height: 70px;
+    /* display: flex;  */
+}
+.left{
+    /* border: 2px solid red; */
+    position: absolute;
+    width: 150px;
+    height: 70px;
+    /* display: flex;  */
+    margin-left: 170px;
+}
+
+.mid{
+    /* border: 2px solid red; */
+    position: absolute;
+    width: 150px;
+    height: 70px;
+    /* display: flex;  */
+    margin-left: 600px;
+}
+
+.right{
+    /* border: 2px solid red; */
+    position: absolute;
+    width: 150px;
+    height: 70px;
+    /* display: flex;  */
+    margin-left: 1100px;
+}
+
+.box18{
+    background-image: linear-gradient(#bd8b8b , #de5e5e);
+    border: 2px solid red;
+    position: absolute;
+    margin-top: 2585px;
+    width: 1500px;
+    height: 500px;
+    /* display: flex;  */
+}
+.box18 img{
+    border-radius: 80px;
+    margin-left: 600px;
+}
+
+.mid1{
+    /* border: 2px solid red; */
+    position: absolute;
+    width: 250px;
+    height: 70px;
+    /* display: flex;  */
+    margin-left: 600px;
+}
+.mid1 a{
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.box19{
+    border: 2px solid red;
+    position: absolute;
+    margin-top: 2700px;
+    width: 1500px;
+    height: 500px;
+    /* display: flex;  */
+}
+
+.f1{
+    border: 2px solid red;
+    position: absolute;
+    width: 150px;
+    height: 500px;
+    /* display: flex;  */
+    margin-left: 50px;
+}
+
+.f2{
+    border: 2px solid red;
+    position: absolute;
+    width: 150px;
+    height: 500px;
+    /* display: flex;  */
+    margin-left: 400px;
+}
+
+.f3{
+    border: 2px solid red;
+    position: absolute;
+    width: 150px;
+    height: 500px;
+    /* display: flex;  */
+    margin-left: 750px;
+}
+
+.f4{
+    border: 2px solid red;
+    position: absolute;
+    width: 150px;
+    height: 500px;
+    /* display: flex;  */
+    margin-left: 1200px;
+}
+
+.foot{
+    border: 2px solid red;
+    margin-top: 0000px;
+}
+
+/* vaccine services.....  */
+
+.box4_1{
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: 250px;
+    width: 1500px;
+    height: 370px;
+    background-color: #e5f5f4;
+}
+.head{
+    font-size: 40px;
+}
+.head_para{
+    font-size: 25px;
+}
+.box4_1 a{
+    font-size: 30px;
+    /* padding-left: 20px; */
+    border: 1px solid red;
+    background-color: #899ae1;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.box4_1 img{
+    margin-top: -165px;
+    padding-left: 807px;
+}
+
+/* INFORMATION ABOUT VACCINE */
+
+.info{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+    border: solid red;
+    box-sizing: border-box;
+    background-color: #ffc107;
+    color: white;
+    margin-top: 44px;
+    background-image: url("Vaccination Website\information about vaccine.png");
+    /* height: 80%; */
+    /* padding:40px 80px; */
+}
+.info1 ul{
+    margin-top: 7px;
+    font-size: 19px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-style: italic;
+    border: solid red;
+    box-sizing: border-box;
+    background-image: linear-gradient(rgb(248, 168, 47),yellow);
+}
+/* side effects */
+.pic{
+    /* width:100; */
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+    border: solid red;
+    box-sizing: border-box;
+    background-color: #ffc107;
+    color: white;
+    margin-top: 44px;
+    text-align: center;
+
+}
+.pic1{
+    width:100px;
+    height:60px;
+    margin-top: 400px;
+}
+
+
+/* footer
+.footer{
+    width:100%;
+    text-align: center;
+    background-image: -moz-linear-gradient(rgb(231, 151, 151),rgb(252, 252, 109));
+}
+.foot{
+    background-image: -moz-linear-gradient(rgb(240, 64, 64),rgb(252, 252, 109));
+} */
